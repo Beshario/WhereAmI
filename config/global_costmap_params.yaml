@@ -1,7 +1,8 @@
 global_costmap:
    global_frame: map
    robot_base_frame: robot_footprint
-   update_frequency: 5
+   update_frequency: 10.o
+   publish_frequency: 5.o
    width: 40.0
    height: 40.0
    resolution: 0.05
