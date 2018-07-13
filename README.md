@@ -16,7 +16,7 @@ Two different wheeled robot models were considered for performance evaluation. T
 </p>
 
 <p align="center">
-  <img src="./Pics/https://github.com/Beshario/WhereAmI/blob/master/Pics/lastCircleBotPic.png">
+  <img src="./Pics/lastCircleBotPic.png">
 </p>
 
 # Project Setup
