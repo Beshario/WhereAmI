@@ -15,9 +15,7 @@ Two different wheeled robot models were considered for performance evaluation. T
   <img src="./Pics/3.png">
 </p>
 
-<p align="center">
-  <img src="./Pics/lastCircleBotPic.png">
-</p>
+
 
 # Project Setup
 For this setup, catkin_ws is the name of the active ROS workspace. If
@@ -68,3 +66,6 @@ In order to run a navigation test, open another terminal window:
 $ cd ~/catkin_ws
 $ rosrun udacity_bot navigation_goal
 ``
+<p align="center">
+  <img src="./Pics/lastCircleBotPic.png">
+</p>
