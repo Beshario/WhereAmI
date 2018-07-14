@@ -65,7 +65,9 @@ In order to run a navigation test, open another terminal window:
 ```
 $ cd ~/catkin_ws
 $ rosrun udacity_bot navigation_goal
-``
+```
+
+
 <p align="center">
   <img src="./Pics/lastCircleBotPic.png">
 </p>
